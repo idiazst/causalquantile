@@ -1,3 +1,5 @@
 # causal-quantile
+
 R package for estimating quantile treatment effects
-https://arxiv.org/abs/1512.08110
+
+The methods are described in https://arxiv.org/abs/1512.08110
