@@ -1,4 +1,4 @@
-# causal-quantile
+# causalquantile
 
 R package for estimating quantile treatment effects
 
